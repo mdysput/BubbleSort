@@ -2,7 +2,7 @@ package MD;
 
 import java.util.Scanner;
 
-public class Main {
+public class BubbleSort {
 
     private static Scanner scanner = new Scanner(System.in);
 
